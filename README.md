@@ -36,7 +36,7 @@ This project analyzes transaction and revenue data from a coffee shop business t
 
 - Slowest Day: Saturday (20,510 transactions), indicating a potential drop in weekend visits.
 
-- Peak Hours: 9 AM - 11 AM, reflecting a strong morning rush.
+- Peak Hours: 8 AM - 10 AM, reflecting a strong morning rush.
 
 - Afternoon Decline: Post-12 PM transactions decrease significantly.
 
