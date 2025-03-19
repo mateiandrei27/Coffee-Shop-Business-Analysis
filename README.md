@@ -1,5 +1,7 @@
 # Coffee-Shop-Business-Analysis
 ## Project Overview ##
+I cleaned and formatted the dataset, added new columns such as revenue, month, and hour, and prepared it for analysis. Then, I built multiple pivot tables and designed a dashboard with a slicer to filter data by location.
+
 This project analyzes transaction and revenue data from a coffee shop business to identify trends, customer behaviors, and provide data-driven recommendations. The goal is to enhance sales, optimize product offerings, and improve customer engagement.
 
 ## Data Overview ##
