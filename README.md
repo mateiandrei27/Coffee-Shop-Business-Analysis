@@ -26,6 +26,8 @@ This project analyzes transaction and revenue data from a coffee shop business t
 
 - Significant Growth in April-May: Indicates a potential marketing success or seasonal trend.
 
+  ![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Revenue.png?raw=true)
+
 **Customer Activity Patterns**
 
 - Busiest Days: Friday (21,701 transactions) and Thursday (21,654 transactions).
@@ -35,6 +37,9 @@ This project analyzes transaction and revenue data from a coffee shop business t
 - Peak Hours: 9 AM - 11 AM, reflecting a strong morning rush.
 
 - Afternoon Decline: Post-12 PM transactions decrease significantly.
+
+  ![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Transactions_by_day.png?raw=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Transactions_by_hour_of_the_day.png?raw=true)
 
 **Product Performance**
 
@@ -51,6 +56,9 @@ Best-Selling Products
 - "Gourmet Brewed Coffee" and "Barista Espresso" are high earners.
 
 - Bakery items like Scones, Pastries, and Biscotti show strong cross-sell potential.
+
+  ![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Transactions_by_Product_Category.png?raw=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Top_15_products.png?raw=true)
 
 ## Recommendations ##
 
