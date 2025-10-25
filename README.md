@@ -26,7 +26,7 @@ Key questions addressed:
   - `Revenue` = Price × Quantity  
   - `Month` (derived from transaction date)  
   - `Hour` (derived from timestamp)  
-- **Data Period:** *(Specify the months covered, e.g., Jan–Jun 2023)*  
+- **Data Period:** *Jan-Jun*  
 - **Tools Used:** Microsoft Excel / Power BI  
 - **Data Type:** Simulated business data for analysis and visualization purposes.  
 
@@ -45,7 +45,7 @@ Key questions addressed:
    - Built Pivot Tables to analyze sales trends by month, day, hour, and product category  
 
 4. **Dashboard Creation**  
-   - Designed an interactive dashboard (Excel / Power BI) with slicers for dynamic filtering by location or category  
+   - Designed an interactive dashboard with slicers for dynamic filtering by location or category  
 
 ---
 
@@ -78,35 +78,31 @@ Each chart highlights key business metrics, patterns, and opportunities.
 ---
 
 <p align="center">
-  <img src="Revenue.png" alt="Monthly Revenue" width="75%">
+  <img src="Monthly Revenue Growth.png" alt="Monthly Revenue Growth" width="75%">
   <br>
-  <em>Figure 1. Monthly Revenue Growth (January – June)</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="Top_15_products.png" alt="Top 15 Products" width="75%">
+  <img src="Top 15 Products by Number of Transactions.png" alt="Top 15 Products by Number of Transactions" width="75%">
   <br>
-  <em>Figure 2. Top 15 Products by Number of Transactions</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="Transactions_by_day.png" alt="Transactions by Day" width="45%">
-  <img src="Transactions_by_hour_of_the_day.png" alt="Transactions by Hour" width="45%">
+  <img src="Transaction Distribution by Day of Week.png" alt="Transaction Distribution by Day of Week" width="45%">
+  <img src="Transaction Distribution by Hour of the Day.png" alt="Transaction Distribution by Hour of the Day" width="45%">
 </p>
 <p align="center">
-  <em>Figure 3. Transaction Distribution by Day of Week and Hour of the Day</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="Transactions_by_Product_Category.png" alt="Transactions by Product Category" width="75%">
+  <img src="Sales Performance by Product Category.png" alt="Sales Performance by Product Category" width="75%">
   <br>
-  <em>Figure 4. Sales Performance by Product Category</em>
 </p>
 
 ---
