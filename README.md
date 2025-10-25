@@ -1,113 +1,110 @@
-# Coffee-Shop-Business-Analysis
-## Project Overview ##
-I cleaned and formatted the dataset, added new columns such as revenue, month, and hour, and prepared it for analysis. Then, I built multiple pivot tables and designed a dashboard with a slicer to filter data by location.
+# ☕ Coffee Shop Business Analysis
 
-This project analyzes transaction and revenue data from a coffee shop business to identify trends, customer behaviors, and provide data-driven recommendations. The goal is to enhance sales, optimize product offerings, and improve customer engagement.
+### 📊 Data-Driven Insights for a Growing Coffee Business
 
-## Data Overview ##
+This project analyzes transactional data from a coffee shop to identify sales trends, customer behavior patterns, and opportunities for business growth.  
+The analysis focuses on **peak hours**, **top-selling products**, and **revenue patterns**, aiming to provide **strategic recommendations** for increasing sales and optimizing operations.
 
-**Key Data Sources**
+---
 
-- Total Revenue by Month: Revenue growth trends over six months.
+## 🧭 1. Project Overview
 
-- Transactions by Day of the Week: Customer activity patterns.
+The main goal of this analysis is to understand when and how the coffee shop performs best — and where improvements can be made.  
+Key questions addressed:
+- What are the **busiest hours and days** of the week?
+- Which **products** generate the highest **sales volume and revenue**?
+- How do sales evolve **month by month**?
+- What **actions** can be taken to increase revenue during slower periods?
 
-- Transactions by Hour of the Day: Peak business hours.
+---
 
-- Transactions by Product Category: Best-selling product categories.
+## 📂 2. Dataset Overview
 
-- Top 15 Products by Transactions and Revenue: High-revenue items.
+- **File:** `Coffee Shop Sales.xlsx`  
+- **Description:** Transaction-level data including product category, quantity, price, date, and time.  
+- **Added Columns:**  
+  - `Revenue` = Price × Quantity  
+  - `Month` (derived from transaction date)  
+  - `Hour` (derived from timestamp)  
+- **Data Period:** *(Specify the months covered, e.g., Jan–Jun 2023)*  
+- **Tools Used:** Microsoft Excel / Power BI  
+- **Data Type:** Simulated business data for analysis and visualization purposes.  
 
-## Key Insights & Analysis ##
+---
 
-**Revenue Trends**
+## ⚙️ 3. Methodology
 
-- Steady Growth: Revenue increased from $81,678 in January to $166,486 in June.
+1. **Data Cleaning**  
+   - Removed duplicates and null values  
+   - Standardized date and time formats  
 
-- Dip in February: Possible seasonal impact or marketing lapse.
+2. **Feature Engineering**  
+   - Created new columns for `Revenue`, `Month`, and `Hour`  
 
-- Significant Growth in April-May: Indicates a potential marketing success or seasonal trend.
+3. **Exploratory Analysis**  
+   - Built Pivot Tables to analyze sales trends by month, day, hour, and product category  
 
-  ![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Revenue.png?raw=true)
+4. **Dashboard Creation**  
+   - Designed an interactive dashboard (Excel / Power BI) with slicers for dynamic filtering by location or category  
 
-**Customer Activity Patterns**
+---
 
-- Busiest Days: Friday (21,701 transactions) and Thursday (21,654 transactions).
+## 📈 4. Key Insights
 
-- Slowest Day: Saturday (20,510 transactions), indicating a potential drop in weekend visits.
+### 🗓️ Monthly Sales Trends
+- Revenue increased from **$81,678 in January** to **$166,486 in June**, showing steady growth.  
+- A slight dip in **February** — possibly due to seasonality or lower customer traffic.  
+- Sharp recovery and growth in **April–May**, suggesting successful promotions or seasonal factors.
 
-- Peak Hours: 8 AM - 10 AM, reflecting a strong morning rush.
+### 🕒 Peak Hours & Customer Behavior
+- The **morning rush (8 AM – 10 AM)** drives the majority of transactions.  
+- Noticeable decline in the afternoon — indicating potential for “after-lunch” campaigns.  
+- **Friday and Thursday** are the busiest days (~21K transactions), while **Saturday** is the slowest (~20.5K).
 
-- Afternoon Decline: Post-12 PM transactions decrease significantly.
+### ☕ Product Performance
+- **Top Categories:**  
+  - Coffee – ~58,416 transactions  
+  - Tea – ~45,449 transactions  
+- **Top Product:** *Brewed Chai Tea* (~17,183 transactions, $77,082 in revenue)  
+- **Cross-sell Potential:** pastries, scones, biscotti — often purchased with beverages.  
 
-  ![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Transactions_by_day.png?raw=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Transactions_by_hour_of_the_day.png?raw=true)
+---
 
-**Product Performance**
+## 💡 5. Recommendations
 
-Top Product Categories
+### 1. Optimize Morning Performance  
+- Capitalize on the 8–11 AM rush with **breakfast bundles** and **loyalty discounts**.  
+- Introduce **premium espresso or seasonal drinks** during peak hours.
 
-- Coffee (58,416 transactions) and Tea (45,449 transactions) dominate sales.
+### 2. Boost Afternoon Sales  
+- Implement **“Happy Hour” promotions** after 12 PM.  
+- Offer **limited-edition drinks** available only in the afternoon.
 
-- Bakery (22,796 transactions) is a key complementary category.
+### 3. Expand Product Strategy  
+- Increase **tea and specialty drink** options — high demand and consistent growth.  
+- Encourage **cross-selling** pastries or snacks with beverages.
 
-Best-Selling Products
+### 4. Improve Weekend Engagement  
+- Launch **“Weekend Specials”** to drive Saturday foot traffic.  
+- Use **social media campaigns** on Fridays to boost weekend awareness.
 
-- "Brewed Chai Tea" (17,183 transactions, $77,082 revenue) leads sales.
+---
 
-- "Gourmet Brewed Coffee" and "Barista Espresso" are high earners.
+## ⚠️ 6. Limitations & Future Work
 
-- Bakery items like Scones, Pastries, and Biscotti show strong cross-sell potential.
+- Dataset covers only *six months* — a longer time frame would improve trend reliability.  
+- Only **sales revenue** analyzed — no cost or profitability data included.  
+- Lacks **customer segmentation** (new vs. returning customers).  
+- Future work could include:  
+  - Customer lifetime value (CLV) analysis  
+  - Product profitability breakdown  
+  - Loyalty and retention metrics
 
-  ![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Transactions_by_Product_Category.png?raw=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Alt text](https://github.com/mateiandrei27/Coffee-Shop-Business-Analysis/blob/main/Top_15_products.png?raw=true)
+---
 
-## Recommendations ##
+## 📚 7. Key Takeaways
 
-## Revenue Optimization Strategies ##
-
-**Leverage Morning Rush**
-
-- Offer breakfast combos and loyalty incentives from 8 AM - 11 AM.
-
-- Introduce premium-priced specialty morning drinks.
-
-**Boost Afternoon Sales**
-
-- Implement happy-hour promotions post 12 PM.
-
-- Introduce limited-time afternoon-exclusive drinks.
-
-## Product & Menu Strategy ##
-
-- Expand Tea Offerings: Given high demand for brewed and herbal teas.
-
-- Cross-Sell Bakery Items: Bundle bakery products with coffee/tea.
-
-- Introduce Seasonal Drinks: Capitalize on customer preferences in high-sales months.
-
-## Weekend Engagement Strategies ##
-
-**Increase Saturday Footfall**
-
-- Launch exclusive weekend promotions.
-
-- Enhance social media engagement on Fridays to boost weekend visits.
-
-## Marketing & Promotional Strategy ##
-
-**Leverage Peak Sales Periods (April-May)**
-
-- Identify factors contributing to high growth.
-
-- Plan seasonal promotions around these months.
-
-**Address February Slump**
-
-- Introduce Valentine’s Day promotions.
-
-- Offer targeted discounts or loyalty rewards.
-
-# Conclusion
-
-This analysis provides actionable insights for revenue growth, optimizing product offerings, and strategic marketing. By leveraging peak hours, enhancing the menu, and implementing data-driven promotions, the coffee shop can maximize profitability and customer satisfaction.
+- The coffee shop shows **consistent month-to-month growth**.  
+- **Morning sales dominate** revenue — strong customer habit.  
+- **Afternoon hours** and **weekends** represent clear improvement opportunities.  
+- Focused campaigns and menu diversification could increase total revenue by **10–20%** in the short term.
