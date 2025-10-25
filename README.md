@@ -27,7 +27,7 @@ Key questions addressed:
   - `Month` (derived from transaction date)  
   - `Hour` (derived from timestamp)  
 - **Data Period:** *Jan-Jun*  
-- **Tools Used:** Microsoft Excel / Power BI  
+- **Tools Used:** Microsoft Excel
 - **Data Type:** Simulated business data for analysis and visualization purposes.  
 
 ---
