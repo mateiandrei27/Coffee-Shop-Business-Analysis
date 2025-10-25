@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Business Analysis
+#  Coffee Shop Business Analysis
 
 ###  Data-Driven Insights for a Growing Coffee Business
 
