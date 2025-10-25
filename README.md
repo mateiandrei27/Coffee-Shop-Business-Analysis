@@ -92,8 +92,8 @@ Each chart highlights key business metrics, patterns, and opportunities.
 ---
 
 <p align="center">
-  <img src="Transaction Distribution by Day of Week.png" alt="Transaction Distribution by Day of Week" width="45%">
-  <img src="Transaction Distribution by Hour of the Day.png" alt="Transaction Distribution by Hour of the Day" width="45%">
+  <img src="Transaction Distribution by Day of Week.png" alt="Transactions by Day" width="45%">
+  <img src="Transaction Distribution by Hour of the Day.png" alt="Transactions by Hour" width="45%">
 </p>
 <p align="center">
 </p>
