@@ -78,7 +78,7 @@ Each chart highlights key business metrics, patterns, and opportunities.
 ---
 
 <p align="center">
-  <img src="visuals/Revenue.png" alt="Monthly Revenue" width="75%">
+  <img src="Revenue.png" alt="Monthly Revenue" width="75%">
   <br>
   <em>Figure 1. Monthly Revenue Growth (January – June)</em>
 </p>
@@ -86,7 +86,7 @@ Each chart highlights key business metrics, patterns, and opportunities.
 ---
 
 <p align="center">
-  <img src="visuals/Top_15_products.png" alt="Top 15 Products" width="75%">
+  <img src="Top_15_products.png" alt="Top 15 Products" width="75%">
   <br>
   <em>Figure 2. Top 15 Products by Number of Transactions</em>
 </p>
@@ -94,20 +94,22 @@ Each chart highlights key business metrics, patterns, and opportunities.
 ---
 
 <p align="center">
-  <img src="visuals/Transactions_by_day.png" alt="Transactions by Day" width="45%">
-  <img src="visuals/Transactions_by_hour_of_the_day.png" alt="Transactions by Hour" width="45%">
+  <img src="Transactions_by_day.png" alt="Transactions by Day" width="45%">
+  <img src="Transactions_by_hour_of_the_day.png" alt="Transactions by Hour" width="45%">
 </p>
 <p align="center">
-  <em>Figure 3. Transaction Distribution by Day of Week and by Hour of the Day</em>
+  <em>Figure 3. Transaction Distribution by Day of Week and Hour of the Day</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="visuals/Transactions_by_Product_Category.png" alt="Transactions by Product Category" width="75%">
+  <img src="Transactions_by_Product_Category.png" alt="Transactions by Product Category" width="75%">
   <br>
-  <em>Figure 4. Sales Performance by Product Category</em
+  <em>Figure 4. Sales Performance by Product Category</em>
+</p>
 
+---
 
 ## 💡 5. Recommendations
 
