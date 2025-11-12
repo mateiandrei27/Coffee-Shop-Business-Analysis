@@ -9,7 +9,7 @@ The analysis focuses on **peak hours**, **top-selling products**, and **revenue 
 
 ##  1. Project Overview
 
-The main goal of this analysis is to understand when and how the coffee shop performs best — and where improvements can be made.  
+The main goal of this analysis is to understand when and how the coffee shop performs best - and where improvements can be made.  
 Key questions addressed:
 - What are the **busiest hours and days** of the week?
 - Which **products** generate the highest **sales volume and revenue**?
@@ -53,12 +53,12 @@ Key questions addressed:
 
 ###  Monthly Sales Trends
 - Revenue increased from **$81,678 in January** to **$166,486 in June**, showing steady growth.  
-- A slight dip in **February** — possibly due to seasonality or lower customer traffic.  
+- A slight dip in **February** - possibly due to seasonality or lower customer traffic.  
 - Sharp recovery and growth in **April–May**, suggesting successful promotions or seasonal factors.
 
 ###  Peak Hours & Customer Behavior
 - The **morning rush (8 AM – 10 AM)** drives the majority of transactions.  
-- Noticeable decline in the afternoon — indicating potential for “after-lunch” campaigns.  
+- Noticeable decline in the afternoon - indicating potential for “after-lunch” campaigns.  
 - **Friday and Thursday** are the busiest days (~21K transactions), while **Saturday** is the slowest (~20.5K).
 
 ###  Product Performance
@@ -66,7 +66,7 @@ Key questions addressed:
   - Coffee – ~58,416 transactions  
   - Tea – ~45,449 transactions  
 - **Top Product:** *Brewed Chai Tea* (~17,183 transactions, $77,082 in revenue)  
-- **Cross-sell Potential:** pastries, scones, biscotti — often purchased with beverages.  
+- **Cross-sell Potential:** pastries, scones, biscotti - often purchased with beverages.  
 
 ---
 
@@ -118,7 +118,7 @@ Each chart highlights key business metrics, patterns, and opportunities.
 - Offer **limited-edition drinks** available only in the afternoon.
 
 ### 3. Expand Product Strategy  
-- Increase **tea and specialty drink** options — high demand and consistent growth.  
+- Increase **tea and specialty drink** options - high demand and consistent growth.  
 - Encourage **cross-selling** pastries or snacks with beverages.
 
 ### 4. Improve Weekend Engagement  
@@ -129,8 +129,8 @@ Each chart highlights key business metrics, patterns, and opportunities.
 
 ##  6. Limitations & Future Work
 
-- Dataset covers only *six months* — a longer time frame would improve trend reliability.  
-- Only **sales revenue** analyzed — no cost or profitability data included.  
+- Dataset covers only *six months* - a longer time frame would improve trend reliability.  
+- Only **sales revenue** analyzed - no cost or profitability data included.  
 - Lacks **customer segmentation** (new vs. returning customers).  
 - Future work could include:  
   - Customer lifetime value (CLV) analysis  
@@ -142,6 +142,6 @@ Each chart highlights key business metrics, patterns, and opportunities.
 ##  7. Key Takeaways
 
 - The coffee shop shows **consistent month-to-month growth**.  
-- **Morning sales dominate** revenue — strong customer habit.  
+- **Morning sales dominate** revenue - strong customer habit.  
 - **Afternoon hours** and **weekends** represent clear improvement opportunities.  
 - Focused campaigns and menu diversification could increase total revenue by **10–20%** in the short term.
